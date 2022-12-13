@@ -1,5 +1,5 @@
-# sentiment-he-BERT-3classes
-hebrew sentiment detection based on BERT (3classes)
+# sentiment-h-BERT-3classes
+sentiment detection based on BERT (3classes)
 
 for download offline model get direct below link:
 
